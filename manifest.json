@@ -1,0 +1,4 @@
+{
+    "access": ["files", "gui", "hardware", "time"],
+    "name":"FSFP Test App"
+}
